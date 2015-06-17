@@ -1,1 +1,0 @@
-console.log("This is my first JavaScript program");
