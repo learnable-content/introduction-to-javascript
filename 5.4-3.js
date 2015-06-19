@@ -5,7 +5,7 @@ function greeter(str, arr, display) {
     output = display(str + " " + arr[counter]);
     console.log(output);
   }
-};
+}
 
 greeter("Hello", ["Fred", "Judy"], function(str) {
   return(str);
