@@ -1,4 +1,4 @@
-var greeter = function(str, arr, display) {
+function greeter(str, arr, display) {
   var counter;
   var output;
   for (counter = 0; counter < arr.length; counter++) {
