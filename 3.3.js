@@ -3,9 +3,9 @@ var largeNumber = 1000;
 console.log(smallNumber);
 // 4
 console.log(largeNumber);
-// 4
+// 1000
 
-smallNumber = 5
+smallNumber = 5;
 console.log(smallNumber);
 // 5
 
