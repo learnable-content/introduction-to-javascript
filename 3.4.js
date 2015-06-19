@@ -6,7 +6,7 @@ var secondWord = "World";
 console.log(firstNumber == 5);
 // true
 console.log(firstNumber == firstNumber);
-// false
+// true
 console.log(firstNumber == secondNumber);
 // false
 
