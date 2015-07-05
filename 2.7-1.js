@@ -1,5 +1,5 @@
 var value1 = 1;
-value2 = "1";
+var value2 = "1";
 var same = (value1 == value2);
 var exact = (value1 === value2);
 
