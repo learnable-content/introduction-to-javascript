@@ -14,10 +14,6 @@ word += firstNumber;
 console.log(word);
 // Hello4
 
-firstNumber += word;
-console.log(firstNumber);
-// NaN
-
 word -= firstNumber;
 console.log(word);
 // NaN
