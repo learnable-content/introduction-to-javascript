@@ -7,7 +7,7 @@
 #Handout Index:
 #Introduction to JavaScript course
 
-* [Lesson 1.1](Introduction-to-Javascript_handouts/1-1.md)
+* [Lesson 1.1](introduction-to-javascript_handouts/1-1.md)
 * [Lesson 1.2](introduction-to-javascript_handouts/1-2.md)
 * [Lesson 1.3](introduction-to-javascript_handouts/1-3.md)
 * [Lesson 1.4](introduction-to-javascript_handouts/1-4.md)
