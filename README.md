@@ -34,8 +34,8 @@
 * [Lesson 5.1](introduction-to-javascript_handouts/5-1.md)
 * [Lesson 5.2](introduction-to-javascript_handouts/5-2.md)
 * [Lesson 5.3](introduction-to-javascript_handouts/5-3.md)
-* [Lesson 5.4](introduction-to-javascript_handouts/5-3.md)
-* [Lesson 5.5](introduction-to-javascript_handouts/5-3.md)
+* [Lesson 5.4](introduction-to-javascript_handouts/5-4.md)
+* [Lesson 5.5](introduction-to-javascript_handouts/5-5.md)
 * [Lesson 6.1](introduction-to-javascript_handouts/6-1.md)
-* [Lesson 6.2](introduction-to-javascript_handouts/6-1.md)
+*
 
