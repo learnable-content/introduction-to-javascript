@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs4.5.jpg)
+![](headings/introjs4.5.jpg)
 
 # "For...In" Statements
 
