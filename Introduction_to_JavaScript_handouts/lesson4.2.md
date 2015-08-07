@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs4.2.jpg)
+![](headings/introjs4.2.jpg)
 
 # "If" Statements
 
