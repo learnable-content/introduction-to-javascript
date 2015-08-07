@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs2.7.jpg)
+![](headings/introjs2.7.jpg)
 
 # Boolean Variables
 
