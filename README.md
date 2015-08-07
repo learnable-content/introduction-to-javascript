@@ -1,4 +1,4 @@
-![](introduction-to-javascript_handouts/headers/introjs1.1.jpg)
+![](introduction-to-javascript_handouts/headings/introjs1.1.jpg)
 
 
 
