@@ -1,14 +1,6 @@
-![](introduction-to-javascript_handouts/headers/introjs1.1.jpg)
+# Index for the Introduction To JavaScript course
 
-
-
-
-
-
-#Introduction to JavaScript course
-#Handout Index:
-
-* [Lesson 1.1](/Introduction_to_JavaScript_handouts/lesson1.1.md)
+* [Lesson 1.1](Introduction_to_JavaScript_handouts/lesson1.1.md)
 * [Lesson 1.2](Introduction_to_JavaScript_handouts/lesson1.2.md)
 * [Lesson 1.3](Introduction_to_JavaScript_handouts/lesson1.3.md)
 * [Lesson 1.4](Introduction_to_JavaScript_handouts/lesson1.4.md)
@@ -39,5 +31,3 @@
 * [Lesson 5.5](Introduction_to_JavaScript_handouts/lesson5.5.md)
 * [Lesson 6.1](Introduction_to_JavaScript_handouts/lesson6.1.md)
 * [Lesson 6.2](Introduction_to_JavaScript_handouts/lesson6.2.md)
-
-
