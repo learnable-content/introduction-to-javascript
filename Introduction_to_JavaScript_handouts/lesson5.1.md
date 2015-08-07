@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs5.1.jpg)
+![](headings/introjs5.1.jpg)
 
 # Functions in JavaScript
 
