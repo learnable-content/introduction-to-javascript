@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs4.3.jpg)
+![](headings/introjs4.3.jpg)
 
 # Pseudo Code for Iteration
 
