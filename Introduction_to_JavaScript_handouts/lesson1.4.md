@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs1.4.jpg)
+![](headings/introjs1.4.jpg)
 
 # JavaScript In-Browser Tools
 
