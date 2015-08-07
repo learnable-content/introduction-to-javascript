@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs4.1.jpg)
+![](headings/introjs4.1.jpg)
 
 # Block Statements
 
