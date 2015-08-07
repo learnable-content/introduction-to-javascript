@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs3.4.jpg)
+![](headings/introjs3.4.jpg)
 
 # Comparison Operators
 
