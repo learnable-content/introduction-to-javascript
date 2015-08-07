@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs3.2.jpg)
+![](headings/introjs3.2.jpg)
 
 # Math Operations
 
