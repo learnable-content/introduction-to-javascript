@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs3.3.jpg)
+![](headings/introjs3.3.jpg)
 
 # Assignment Operators
 
