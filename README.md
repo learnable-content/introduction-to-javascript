@@ -1,4 +1,4 @@
-![](headings/introjs1.2.jpg)
+![](Introduction_to_JavaScript_handouts/headings/introjs1.2.jpg)
 
 In order to follow along with this course, you're going to need a programming environment in which you can write JavaScript code, execute it, and observe the results. I'm going to show you a few different environments.
 
