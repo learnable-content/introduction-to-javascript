@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs1.5.jpg)
+![](headings/introjs1.5.jpg)
 
 # Online Testing and Development Tools
 
