@@ -1,4 +1,4 @@
-![](Introduction_to_JavaScript_handouts/headings/introjs6.1.jpg)
+![](headings/introjs6.1.jpg)
 
 # Introduction (and a Challenge)
 
